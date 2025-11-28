@@ -1,0 +1,9 @@
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.AssemblyInfo.cs
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/shimelisgebeyehu/Desktop/PizzaStore/obj/Debug/net10.0/PizzaStore.sourcelink.json
